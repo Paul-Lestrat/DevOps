@@ -10,7 +10,3 @@ def test_1():
 def test_2():
     added = simple_add(7, 9)
     assert added == 16
-
-
-def test3():
-    raise ValueError
