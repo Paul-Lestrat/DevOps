@@ -1,5 +1,5 @@
 def simple_add(a, b):
-    return a + b
+    return a
 
 
 def simple_substract(a, b):
